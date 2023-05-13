@@ -4,8 +4,8 @@
 1. Connect to database 
 
 
-![Screenshot 2023-05-12 162630](https://github.com/vasanthofficial/Voting_etherium/assets/99113546/bb8eb7aa-4fe7-47c7-a8e7-3460ed57cfe1)
 
+https://github.com/vasanthofficial/Voting_etherium/assets/99113546/f05d60b9-8764-497f-a6f5-db79562eeb0f
 
 
 2. Import the db file named aadhar
