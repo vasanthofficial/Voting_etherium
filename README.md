@@ -30,8 +30,7 @@
 
 
 
-https://github.com/vasanthofficial/Voting_etherium/assets/99113546/236984e8-2e8d-4813-9e06-f206213be923
-
+Refer this video for Error part and project working :  https://drive.google.com/file/d/1Lrm5iNDhgFIxy9IA_bkM5VA7FJogtGHR/view?usp=share_link
 
 
 METAMASK
