@@ -3,9 +3,8 @@
 
 1. Connect to database 
 
+![Screenshot 2023-05-12 162630](https://github.com/vasanthofficial/Voting_etherium/assets/99113546/505f8553-e881-47aa-8572-b4020be3af23)
 
-
-https://github.com/vasanthofficial/Voting_etherium/assets/99113546/f05d60b9-8764-497f-a6f5-db79562eeb0f
 
 
 2. Import the db file named aadhar
@@ -28,6 +27,12 @@ https://github.com/vasanthofficial/Voting_etherium/assets/99113546/f05d60b9-8764
 1. Login in admin username : admin@admin.com password : admin
 2. navigate to add candidate : fill the form 
 3. After submiting the form it need to propmt to metamask 
+
+
+
+https://github.com/vasanthofficial/Voting_etherium/assets/99113546/236984e8-2e8d-4813-9e06-f206213be923
+
+
 
 METAMASK
 
